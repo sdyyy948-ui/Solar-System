@@ -7,8 +7,6 @@ Planets of the Solar System
 There are eight planets in the Solar System, each with unique features. Mercury is the closest planet to the Sun and has extreme temperatures. Venus is the hottest planet due to its thick atmosphere. Earth is the only known planet that supports life. Mars is called the Red Planet because of its color. Jupiter is the largest planet, while Saturn is famous for its beautiful rings. Uranus rotates on its side, and Neptune is the coldest and farthest planet from the Sun.
 Inner and Outer Planets
 The inner planets—Mercury, Venus, Earth, and Mars—are rocky and smaller in size. They are also called terrestrial planets. The outer planets—Jupiter, Saturn, Uranus, and Neptune—are much larger and are made mostly of gases and ice, so they are known as gas giants and ice giants.
-Asteroids, Comets, and Meteoroids
-Asteroids are rocky bodies mostly found in the asteroid belt between Mars and Jupiter. Comets are made of ice, dust, and gas and form glowing tails when they approach the Sun. Meteoroids are small pieces of rock or metal moving through space; when they enter Earth’s atmosphere, they are called meteors.
 Importance of Studying the Solar System
 Studying the Solar System helps scientists learn about the origin of Earth, climate changes, and the possibility of life on other planets. It also inspires space exploration and technological development.
 Conclusion
